@@ -1,0 +1,578 @@
+{
+	"step1": {
+		"section1": {
+			"headerTitle": "VISION",
+			"subHeaderTitle": "What are we striving to become?",
+			"content": "Being the go to supplier that is robust, proactive and trend setting",
+			"styles": {
+				"header": {
+					"background": "rgba(123, 97, 255, 0.5)"
+				},
+				"subheader": {
+					"background": "rgba(123, 97, 255, 0.1)"
+				}
+			}
+		},
+		"section2": {
+			"headerTitle": "PURPOSE",
+			"subHeaderTitle": "Why do we do this?",
+			"content": "Being involved in an environment and community that people enjoy working for and being apart while leaving a footprint in our drive to tackle childhood obesity ...",
+			"styles": {
+				"header": {
+					"background": "rgba(123, 97, 255, 0.5)"
+				},
+				"subheader": {
+					"background": "rgba(123, 97, 255, 0.1)"
+				}
+			}
+		},
+		"section3": {
+			"headerTitle": "MISSION STATEMENT",
+			"subHeaderTitle": "What do we do everyday to meet vision",
+			"content": "Every day we help improve the lives of individuals by ensuring we supply our customers with the best foods on the market. We do this by:",
+			"styles": {
+				"header": {
+					"background": "rgba(123, 97, 255, 0.5)"
+				},
+				"subheader": {
+					"background": "rgba(123, 97, 255, 0.1)"
+				}
+			}
+		},
+		"section4": {
+			"headerTitle": "LOOKS LIKE",
+			"subHeaderTitle": "What does my business look like",
+			"content": [
+				"Find best performing brands and",
+				"Commence and trial own home brand product",
+				"Expand home brand product and work on",
+				"",
+				""
+			],
+			"styles": {
+				"header": {
+					"background": "rgba(123, 97, 255, 0.5)"
+				},
+				"subHeader": {
+					"background": "rgba(123, 97, 255, 0.1)",
+					"height": "62px",
+					"fontSize": "9px"
+				}
+			}
+		},
+		"section5": {
+			"headerTitle": "THE BRAND PROMISES",
+			"subHeaderTitle": "What will we stand and be know for",
+			"content": [
+				"Find best performing brands and",
+				"Commence and trial own home brand product",
+				"Expand home brand product and work on",
+				"",
+				""
+			],
+			"styles": {
+				"header": {
+					"background": "rgba(123, 97, 255, 0.5)"
+				},
+				"subHeader": {
+					"background": "rgba(123, 97, 255, 0.1)",
+					"fontSize": "9px"
+				},
+				"container": {
+					"height": "183px"
+				}
+			}
+		},
+		"section6": {
+			"headerTitle": "MISSION ACTION",
+			"subHeaderTitle": "What we do every day to align with our mission?",
+			"content": [
+				"Find best performing brands and",
+				"Commence and trial own home brand product",
+				"Expand home brand product and work on",
+				"",
+				""
+			],
+			"styles": {
+				"header": {
+					"background": "rgba(123, 97, 255, 0.5)"
+				},
+				"subHeader": {
+					"background": "rgba(123, 97, 255, 0.1)",
+					"height": "50px",
+					"fontSize": "8px"
+				}
+			}
+		},
+		"section7": {
+			"headerTitle": "VALUATION",
+			"subHeaderTitles": ["Year", "Multiple", "Valuation $"],
+			"content": [
+				["90 days", "2.5", ""],
+				["Year 1", "2.5", ""],
+				["Year 3", "2.5", ""],
+				["Year 10", "2.5", ""]
+			],
+			"styles": {
+				"header": {
+					"background": "rgba(123, 97, 255, 0.5)"
+				},
+				"container": {
+					"border": "none"
+				},
+				"table": {
+					"th": {
+						"height": "20px",
+						"fontSize": "7px"
+					},
+					"td": {
+						"height": "22px",
+						"padding": "0 0 5px 0"
+					}
+				}
+			}
+		},
+		"section8": {
+			"headerTitle": "Key Financial Targets Year 1",
+			"content": {
+				"yearEnding": 2022,
+				"noClient": "N2",
+				"numberOfOwners": 100,
+				"avgOrder": 334,
+				"revenue": "9.42k",
+				"marketingSpend": ["9,036", 0.32],
+				"costOfGoods": ["9.42k", 0.32],
+				"directLabour": ["9.42k", 0.32],
+				"grossProfitSales": ["9.42k", 0.32],
+				"overheadOfSales": ["9.42k", 0.32],
+				"ownerProfit": 65,
+				"numberOfStaff": 9,
+				"custRetentionRate": 9,
+				"newCustomers": 9,
+				"revStaff": 104667,
+				"ownerHourRate": 36,
+				"custAcqtCost": 33
+			}
+		},
+		"section9": {
+			"headerTitle": "Key Financial Targets Year 2",
+			"content": {
+				"yearEnding": 2022,
+				"noClient": "N2",
+				"numberOfOwners": 100,
+				"avgOrder": 334,
+				"revenue": "9.42k",
+				"marketingSpend": ["9,036", 0.32],
+				"costOfGoods": ["9.42k", 0.32],
+				"directLabour": ["9.42k", 0.32],
+				"grossProfitSales": ["9.42k", 0.32],
+				"overheadOfSales": ["9.42k", 0.32],
+				"ownerProfit": 65,
+				"numberOfStaff": 9,
+				"custRetentionRate": 9,
+				"newCustomers": 9,
+				"revStaff": 104667,
+				"ownerHourRate": 36,
+				"custAcqtCost": 33
+			}
+		},
+		"section10": {
+			"headerTitle": "Key Financial Targets Year 3",
+			"content": {
+				"yearEnding": 2022,
+				"noClient": "N2",
+				"numberOfOwners": 100,
+				"avgOrder": 334,
+				"revenue": "9.42k",
+				"marketingSpend": ["9,036", 0.32],
+				"costOfGoods": ["9.42k", 0.32],
+				"directLabour": ["9.42k", 0.32],
+				"grossProfitSales": ["9.42k", 0.32],
+				"overheadOfSales": ["9.42k", 0.32],
+				"ownerProfit": 65,
+				"numberOfStaff": 9,
+				"custRetentionRate": 9,
+				"newCustomers": 9,
+				"revStaff": 104667,
+				"ownerHourRate": 36,
+				"custAcqtCost": 33
+			}
+		},
+		"section11": {
+			"headerTitle": "OUR CORE VALUE",
+			"subHeaderTitle": "These don't change and are non-negotiable",
+			"content": [
+				"Always trading with honesty, trust, and integrity",
+				"100% pure organic food i.e no nastys and a real food with an economic outlook",
+				"Being the experts and trusted advisers in health and wellness",
+				"Easy to deal with. Professional but casual",
+				"Always focusing on continuous improvement"
+			],
+			"styles": {
+				"header": {
+					"background": "rgba(123, 97, 255, 0.5)"
+				},
+				"container": {
+					"width": "9cm"
+				},
+				"subHeader": {
+					"background": "rgba(123, 97, 255, 0.1)",
+					"padding": "0 0 2px 0",
+					"fontSize": "8.5px"
+				}
+			}
+		},
+		"section12": {
+			"headerTitle": "5 YR PRIORITIES",
+			"subHeaderTitle": "",
+			"content": [
+				"Always trading with honesty, trust, and integrity",
+				"100% pure organic food i.e no nastys and a real food with an economic outlook",
+				"Being the experts and trusted advisers in health and wellness",
+				"Easy to deal with. Professional but casual",
+				"Always focusing on continuous improvement"
+			],
+			"styles": {
+				"header": {
+					"background": "rgba(123, 97, 255, 0.5)"
+				},
+				"container": {
+					"width": "9cm"
+				},
+				"subHeader": {
+					"background": "rgba(123, 97, 255, 0.1)"
+				}
+			}
+		},
+		"section13": {
+			"headerTitle": "3 YR PRIORITIES",
+			"subHeaderTitle": "",
+			"content": [
+				"Always trading with honesty, trust, and integrity",
+				"100% pure organic food i.e no nastys and a real food with an economic outlook",
+				"Being the experts and trusted advisers in health and wellness",
+				"Easy to deal with. Professional but casual",
+				"Always focusing on continuous improvement"
+			],
+			"styles": {
+				"header": {
+					"background": "rgba(123, 97, 255, 0.5)"
+				},
+				"container": {
+					"width": "9cm"
+				},
+				"subHeader": {
+					"background": "rgba(123, 97, 255, 0.1)"
+				}
+			}
+		},
+		"section14": {
+			"headerTitle": "ANNUAL PRIORITIES",
+			"subHeaderTitle": "",
+			"content": [
+				"Always trading with honesty, trust, and integrity",
+				"100% pure organic food i.e no nastys and a real food with an economic outlook",
+				"Being the experts and trusted advisers in health and wellness",
+				"Easy to deal with. Professional but casual",
+				"Always focusing on continuous improvement"
+			],
+			"styles": {
+				"header": {
+					"background": "rgba(123, 97, 255, 0.5)"
+				},
+				"container": {
+					"width": "9cm"
+				},
+				"subHeader": {
+					"background": "rgba(123, 97, 255, 0.1)"
+				}
+			}
+		},
+		"section15": {
+			"headerTitle": "STRENGTH",
+			"content": [
+				"Excellent name in the industry",
+				"We are the 'go-to' distributor for new brands"
+			],
+			"styles": {
+				"container": {
+					"width": "5.5cm",
+					"height": "83px"
+				},
+				"header": {
+					"background": "rgba(123, 205, 190, 0.1)"
+				}
+			}
+		},
+		"section16": {
+			"headerTitle": "How CAN I USE THIS?",
+			"content": [
+				"Become industry advocates for our customers",
+				"Continually upgrade to the fastest moving products"
+			],
+			"styles": {
+				"container": {
+					"width": "5.5cm"
+				},
+				"header": {
+					"background": "rgba(123, 205, 190, 0.1)"
+				}
+			}
+		},
+		"section17": {
+			"headerTitle": "OPPORTUNITIES",
+			"content": [
+				"Excellent name in the industry",
+				"We are the 'go-to' distributor for new brands"
+			],
+			"styles": {
+				"container": {
+					"width": "5.5cm",
+					"height": "85px"
+				},
+				"header": {
+					"background": "rgba(123, 205, 190, 0.1)"
+				}
+			}
+		},
+		"section18": {
+			"headerTitle": "HOW TO I CAPITALISE THESE?",
+			"content": [
+				"Become industry advocates for our customers",
+				"Continually upgrade to the fastest moving products"
+			],
+			"styles": {
+				"container": {
+					"width": "5.5cm"
+				},
+				"header": {
+					"background": "rgba(123, 205, 190, 0.1)"
+				}
+			}
+		},
+		"section19": {
+			"headerTitle": "WEAKNESS",
+			"content": [
+				"Excellent name in the industry",
+				"We are the 'go-to' distributor for new brands"
+			],
+			"styles": {
+				"container": {
+					"width": "5.5cm"
+				},
+				"header": {
+					"background": "rgba(123, 205, 190, 0.1)"
+				}
+			}
+		},
+		"section20": {
+			"headerTitle": "How CAN I IMPROVE THIS?",
+			"content": [
+				"Become industry advocates for our customers",
+				"Continually upgrade to the fastest moving products"
+			],
+			"styles": {
+				"container": {
+					"width": "5.5cm",
+					"height": "82px"
+				},
+				"header": {
+					"background": "rgba(123, 205, 190, 0.1)"
+				}
+			}
+		},
+		"section21": {
+			"headerTitle": "THREATS",
+			"content": [
+				"Excellent name in the industry",
+				"We are the 'go-to' distributor for new brands"
+			],
+			"styles": {
+				"container": {
+					"width": "5.5cm",
+					"height": "86px"
+				},
+				"header": {
+					"background": "rgba(123, 205, 190, 0.1)"
+				}
+			}
+		},
+		"section22": {
+			"headerTitle": "HOW CAN I MITIGATE ON THESE?",
+			"content": [
+				"Become industry advocates for our customers",
+				"Continually upgrade to the fastest moving products"
+			],
+			"styles": {
+				"container": {
+					"width": "5.5cm",
+					"height": "87px"
+				},
+				"header": {
+					"background": "rgba(123, 205, 190, 0.1)"
+				}
+			}
+		},
+		"section23": {
+			"headerTitle": "TRADING DAY",
+			"content": [
+				["Trading day per week", 5],
+				["Trading weeks per year", 5],
+				["Trading day per year", 5],
+				["None trading period", 5]
+			],
+			"styles": {
+				"table": {
+					"td": {
+						"height": "22px"
+					}
+				}
+			}
+		},
+		"section24": {
+			"headerTitle": "DAILY CASH",
+			"content": [
+				["Banking", 5],
+				["Marketing", 5],
+				["Overhead", 5],
+				["Accumulate", 5]
+			],
+			"styles": {
+				"table": {
+					"td": {
+						"height": "22px"
+					}
+				}
+			}
+		},
+		"section25": {
+			"headerTitle": "CLIENTS",
+			"content": ["", "", "", ""],
+			"styles": {
+				"header": {
+					"padding": "6px 0",
+					"background": "rgba(74, 105, 189, 0.5)"
+				}
+			}
+		},
+		"section26": {
+			"headerTitle": "TEAM MEMBER",
+			"content": ["", "", "", ""],
+			"styles": {
+				"header": {
+					"padding": "6px 0",
+					"background": "rgba(74, 105, 189, 0.5)"
+				}
+			}
+		},
+		"section27": {
+			"headerTitle": "OWNER & SHAREHOLDER",
+			"content": [
+				["Earned laster financial year", "4k"],
+				["Target inc/dec this year", "4k"],
+				["Dividend/Bonus", "4k"],
+				["Hours work", 38]
+			],
+			"styles": {
+				"header": {
+					"background": "rgba(74, 105, 189, 0.5)"
+				},
+				"table": {
+					"td": {
+						"height": "22px"
+					}
+				}
+			}
+		},
+		"section28": {
+			"headerTitle": "PRODUCT & SERVICE",
+			"content": [
+				["Introducing 1 brand at $7k per month"],
+				["Maintaining stock items at 43 (max 50)"],
+				["Delete non-strategic brands under $2k p/m"],
+				["Stock turnover reduce from avg 37 to 30 days"]
+			],
+			"styles": {
+				"header": {
+					"padding": "3px 0",
+					"background": "rgba(74, 105, 189, 0.5)"
+				},
+				"content": {
+					"padding": "3px 8px 13px 8px"
+				}
+			}
+		},
+		"section29": {
+			"headerTitle": "MARKETING",
+			"content": [
+				["Introducing 1 brand at $7k per month"],
+				["Maintaining stock items at 43 (max 50)"],
+				["Delete non-strategic brands under $2k p/m"],
+				["Stock turnover reduce from avg 37 to 30 days"]
+			],
+			"styles": {
+				"header": {
+					"padding": "3px 0",
+					"background": "rgba(74, 105, 189, 0.5)"
+				},
+				"content": {
+					"padding": "3px 8px 13px 8px"
+				}
+			}
+		},
+		"section30": {
+			"headerTitle": "SALES",
+			"content": [
+				["Introducing 1 brand at $7k per month"],
+				["Maintaining stock items at 43 (max 50)"],
+				["Delete non-strategic brands under $2k p/m"],
+				["Stock turnover reduce from avg 37 to 30 days"]
+			],
+			"styles": {
+				"header": {
+					"padding": "3px 0",
+					"background": "rgba(74, 105, 189, 0.5)"
+				},
+				"content": {
+					"padding": "3px 8px 13px 8px"
+				}
+			}
+		},
+		"section31": {
+			"headerTitle": "FULLFILLMENT",
+			"content": [
+				["Introducing 1 brand at $7k per month"],
+				["Maintaining stock items at 43 (max 50)"],
+				["Delete non-strategic brands under $2k p/m"],
+				["Stock turnover reduce from avg 37 to 30 days"]
+			],
+			"styles": {
+				"header": {
+					"padding": "3px 0",
+					"background": "rgba(74, 105, 189, 0.5)"
+				},
+				"content": {
+					"padding": "3px 8px 13px 8px"
+				}
+			}
+		},
+		"section32": {
+			"headerTitle": "SUPPORT",
+			"content": [
+				["Introducing 1 brand at $7k per month"],
+				["Maintaining stock items at 43 (max 50)"],
+				["Delete non-strategic brands under $2k p/m"],
+				["Stock turnover reduce from avg 37 to 30 days"]
+			],
+			"styles": {
+				"header": {
+					"padding": "3px 0",
+					"background": "rgba(74, 105, 189, 0.5)"
+				},
+				"content": {
+					"padding": "3px 8px 13px 8px"
+				}
+			}
+		}
+	}
+}

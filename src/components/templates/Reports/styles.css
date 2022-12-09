@@ -1,0 +1,6 @@
+.reports-container
+	.chakra-accordion__item
+	.chakra-accordion__button
+	> svg.chakra-icon {
+	color: white !important;
+}
